@@ -27,7 +27,6 @@ cc_binary {
     shared_libs: [
         "libbase",
         "libhidlbase",
-        "libhidltransport",
         "libutils",
         "android.system.net.netd@1.1",
         "android.system.net.netd@1.0",
